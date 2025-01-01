@@ -1,4 +1,5 @@
-Until Now Nothing Here.\n
+Until Now Nothing Here.
+
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation" />
 <img src="https://img.shields.io/badge/PlayStation%205-003791?style=for-the-badge&logo=playstation%205" />
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox" />
